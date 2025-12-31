@@ -24,3 +24,7 @@
 - [Exercism](https://exercism.org)
 - [stack overflow](https://stackoverflow.com/questions)
 - [Chatgpt :)](https://chatgpt.com)
+## 7.Collections:
+- [DSA_Sheet_1](https://dsa.apnacollege.in)
+- [DSA_Sheet_2](https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?gid=0#gid=0)
+- [DSA_Sheet_3](https://learnyard.com/practice/dsa)

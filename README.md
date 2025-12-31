@@ -4,6 +4,7 @@
 ## 2.For Math: 
 - [Repovive](https://repovive.com)
 - [cp-algorithms](https://github.com/BadhonPain/cp-algorithms)
+- [Math for CP](https://docs.google.com/document/d/181iDfp5IjOikFSL7bHNNaq-n99Rld9mJ-c-asKf4Bks/edit?tab=t.0)
 ## 3.Visualisation:
 - [VisuAlgo](https://visualgo.net/en)
 ## 4.Important Books: 

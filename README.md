@@ -7,6 +7,9 @@
 - [Math for CP](https://docs.google.com/document/d/181iDfp5IjOikFSL7bHNNaq-n99Rld9mJ-c-asKf4Bks/edit?tab=t.0)
 ## 3.Visualisation:
 - [VisuAlgo](https://visualgo.net/en)
+- [David_Galles_Web](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Algorithm_Visualizer](https://tamimehsan.github.io/AlgorithmVisualizer/)
+- [CS_Vistool](https://csvistool.com/)
 ## 4.Important Books: 
 - [Handbook by Laaksonen](https://drive.google.com/file/d/1R_0xXIJ6WijjBOEl-uSlo3wRln67OJSK/view?usp=drive_link)
 - [CLRS](https://drive.google.com/drive/folders/1aTD-TDp-B9DLvkeOcqjq63LEd8KjJjbF)
@@ -28,3 +31,5 @@
 - [DSA_Sheet_1](https://dsa.apnacollege.in)
 - [DSA_Sheet_2](https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?gid=0#gid=0)
 - [DSA_Sheet_3](https://learnyard.com/practice/dsa)
+## 8.Suitable Repo:
+- [CS_61B](https://github.com/Berkeley-CS61B/lectureCode-fa25)

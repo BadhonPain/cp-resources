@@ -1,4 +1,4 @@
-# CP-resources
+# CP & DSA resources
 ---
 ## 1.Prefered Language: C++
 ## 2.For Math: 
@@ -33,3 +33,5 @@
 - [DSA_Sheet_3](https://learnyard.com/practice/dsa)
 ## 8.Suitable Repo:
 - [CS_61B](https://github.com/Berkeley-CS61B/lectureCode-fa25)
+## 9.Channel & Playlist:
+- [List of Pl](https://blog.algomaster.io/p/368a3274-10b7-451b-bd9e-91c45a2164d7)
